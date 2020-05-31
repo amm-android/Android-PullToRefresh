@@ -1,9 +1,12 @@
-#Android-PullToRefresh
-# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
+# Android-PullToRefresh
+引用方式：
+implementation 'com.github.amm-android:Android-PullToRefresh:r-2.1.1'
+
+PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
 
 * * *
 
-# Pull To Refresh Views for Android
+## Pull To Refresh Views for Android
 
 ![Screenshot](https://github.com/chrisbanes/Android-PullToRefresh/raw/master/header_graphic.png)
 
