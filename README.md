@@ -1,6 +1,6 @@
 # Android-PullToRefresh
 引用方式：
-implementation 'com.github.amm-android:Android-PullToRefresh:r-2.1.1'
+implementation 'com.github.amm-android:Android-PullToRefresh:v2.1.2'
 
 PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
 
